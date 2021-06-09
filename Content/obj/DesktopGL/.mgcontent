@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Anubis.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/BabyCamel.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/BabyCamelOutline.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/BabyGoat.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/BabyGoatOutline.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/BabySheep.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/BabySheepOutline.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/BigFootstep.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Bow.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Camel.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/CamelOutline.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Circle.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Fonts/main.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Food.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Footstep.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/GameOver.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Geb.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Goat.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/GoatOutline.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Logo.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Obelisk.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Particles/Blood.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Particles/Dollar.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Particles/SmallCoin.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Particles/SmallFood.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Particles/Smoke.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Player.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/Arrow.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/Mark.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/MarkWarning.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/RedBlot.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/Rock.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/Sun.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/Triangle.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/Whirlpool1.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/Whirlpool2.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Projectiles/Whirlpool3.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/SandSplicer.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Seeds.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Shaders.fx</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sheep.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/SheepOutline.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Shopkeeper.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sling.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/SoldOut.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Anubis_0.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Anubis_1.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Anubis_2.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Anubis_Die.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Bow.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Burp_0.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Burp_1.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Camel_0.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Camel_1.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Cash_Register.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Geb_0.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Geb_1.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Geb_Death.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Goat_0.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Goat_1.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Goat_2.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Plant_Gather.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/PlantSeed.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Sand_Splicer_0.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Sand_Splicer_Death.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Sand_Splicer_Dig.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Sheep_0.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Sheep_1.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Sling.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Spear.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Splat.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/StaffOfRa.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/Tick.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Sounds/WaterPour.mp3</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Spear.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/StaffOfRa.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/TileHover.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tiles/Carpet.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tiles/Carpet2.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tiles/Farm.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tiles/Fence.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tiles/PalmTree.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tiles/Rock1.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tiles/Sand.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/TitleBack.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tutorial.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tutorial0.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tutorial1.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tutorial2.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Tutorial3.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/UI/Coin.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/UI/Heart.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/UI/HotbarBox.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/UI/HotbarSelection.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/Vignette.png</File>
+    <File>C:/Users/Josh/source/repos/MiniJam61Egypt/MiniJam61Egypt/Content/WaterBasin.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
